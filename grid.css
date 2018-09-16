@@ -1,0 +1,27 @@
+.row {
+  width: 100%;
+  float: left;
+  margin: 10px;
+}
+
+.column {
+  float: left;
+}
+
+.percent30{
+    width: 30%;
+}
+
+.percent70 {
+  width: 70%;
+  background-color: grey;
+}
+
+.percent80 {
+  width: 80%;
+  background-color: grey;
+}
+
+.percent20 {
+  width: 20%;
+}
